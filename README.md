@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ShashankJaipurkar123/Leethub/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ShashankJaipurkar123/Leethub/tree/master/2685-first-completely-painted-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/ShashankJaipurkar123/Leethub/tree/master/0407-trapping-rain-water-ii) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ShashankJaipurkar123/Leethub/tree/master/2685-first-completely-painted-row-or-column) |
 ## Database
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ShashankJaipurkar123/Leethub/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/ShashankJaipurkar123/Leethub/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ShashankJaipurkar123/Leethub/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [2685-first-completely-painted-row-or-column](https://github.com/ShashankJaipurkar123/Leethub/tree/master/2685-first-completely-painted-row-or-column) |
 <!---LeetCode Topics End-->
